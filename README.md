@@ -4,7 +4,7 @@ By Hansaka Wijaya (1706985962), Muhammad Adisatriyo (1706986031) & Hilman Maulan
 * [Description](#description)
 * [Overview](#overview)
 * [License](#license)
-* [Power Point Presentation] (https://github.com/MWLKR/BTCForecast/raw/master/Forecasting%20Bitcoin%20Price%20with%20ARIMA%20Model.pptx) 
+* [Power Point Presentation](https://github.com/MWLKR/BTCForecast/raw/master/Forecasting%20Bitcoin%20Price%20with%20ARIMA%20Model.pptx) 
 
 ## Description
 
