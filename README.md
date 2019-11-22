@@ -80,8 +80,10 @@ The coef column shows the weight (i.e. importance) of each feature and how each 
 ![8th](https://user-images.githubusercontent.com/36689886/69426410-c9633e00-0d5f-11ea-9ae7-de025e412afb.png)
 
 ### Monthly Prediction
-The prediction starts from 31/10/2015 to 31/7/2020. As we can see, in 2020 the price of the bitcoin is forecasted gonna be raising.
+The prediction starts from 31/10/2015 to 31/7/2020. As we can see, in 2020 the price of the bitcoin is forecasted to be raising.
 ![8th](https://user-images.githubusercontent.com/36689886/69426569-2232d680-0d60-11ea-8cb7-6ffd74515f35.png)
+
+
 
 ## License
 
