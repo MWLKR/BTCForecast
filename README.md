@@ -3,8 +3,9 @@ Bitcoin Forecasting Using SARIMA
 By Hansaka Wijaya (1706985962), Muhammad Adisatriyo (1706986031) & Hilman Maulana (1706985975)
 * [Description](#description)
 * [Overview](#overview)
-* [License](#license)
 * [Download Power Point Presentation](https://github.com/MWLKR/BTCForecast/raw/master/Forecasting%20Bitcoin%20Price%20with%20ARIMA%20Model.pptx) 
+* [License](#license)
+
 
 ## Description
 
